@@ -1,6 +1,6 @@
-# animatedchatbar
+# Animated Chat Bar
 
-Animated Chat Bar made using Flutter.
+Interactive & Animated Chat Bar made using Flutter.
 
 ## Getting Started
 
